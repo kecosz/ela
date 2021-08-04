@@ -1,2 +1,2 @@
 # ela
-ela package for Mathematica
+Mathematica package for energy landscape analysis
