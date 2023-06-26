@@ -1,6 +1,6 @@
 # ela
 A package/library for energy landscape analysis available for:  
-**Mathematica** (ela.wl): https://doi.org/10.5281/zenodo.5492161
+**Mathematica** (ela.wl): https://doi.org/10.5281/zenodo.5492161  
 Tutorial is [here](https://community.wolfram.com/groups/-/m/t/2358581)
   
 ## Description  
